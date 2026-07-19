@@ -24,7 +24,7 @@ maintainer rather than in a public thread:
 
 - Open a private report through the repository's **Security -> Report a vulnerability**
   tab, or
-- Contact the maintainer through their GitHub profile: https://github.com/d0t0gg91-ux
+- Contact the maintainer through their GitHub profile: https://github.com/itsryanlenk
 
 Reports will be reviewed and handled as described in the Enforcement and Enforcement
 Guidelines sections of the linked Contributor Covenant. The maintainer is responsible
