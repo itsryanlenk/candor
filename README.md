@@ -69,7 +69,7 @@ over-explains - are in the report.
 Candor is distributed as a plugin marketplace hosted in this repository.
 
 ```text
-/plugin marketplace add d0t0gg91-ux/candor
+/plugin marketplace add itsryanlenk/candor
 /plugin install candor@candor
 ```
 
@@ -78,7 +78,7 @@ The second argument is `plugin@marketplace` - here both happen to be named `cand
 **Trying it before it's public, or from a local clone:**
 
 ```text
-git clone https://github.com/d0t0gg91-ux/candor.git
+git clone https://github.com/itsryanlenk/candor.git
 /plugin marketplace add ./candor
 /plugin install candor@candor
 ```
