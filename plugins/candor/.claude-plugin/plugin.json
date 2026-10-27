@@ -3,10 +3,10 @@
   "version": "0.5.0",
   "description": "Anti-sycophancy behavioral modes for Claude Code: a shared candor core plus eleven work-mode personas (coding, logic, creative, brainstorm, security, debug, architect, writing, decide, data, curator).",
   "author": {
-    "name": "d0t0gg91-ux"
+    "name": "Ryan Lenk"
   },
-  "homepage": "https://github.com/d0t0gg91-ux/candor",
-  "repository": "https://github.com/d0t0gg91-ux/candor",
+  "homepage": "https://github.com/itsryanlenk/candor",
+  "repository": "https://github.com/itsryanlenk/candor",
   "license": "MIT",
   "keywords": [
     "anti-sycophancy",
