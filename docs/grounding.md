@@ -45,7 +45,7 @@ in several of these vocabularies at once - which is how each candor mode is spec
 
 ## Method
 
-The mappings were developed alongside **[Persage](https://github.com/d0t0gg91-ux)**, a
+The mappings were developed alongside **Persage** (a private project), a
 personality-assessment project that implements a scoring engine over these frameworks
 (Big Five facets feeding derivations into the 16-type, archetype, and Predictive Index
 models). Working through that engine made the trait-to-behavior relationships concrete:
